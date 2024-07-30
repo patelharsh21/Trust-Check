@@ -1,5 +1,5 @@
 ## Overview 
-Trust check is a chrome extension that can be used to check the currently opened website is phishing or legitimate hence preventing users from getting phished
+Trust check is a chrome extension that can be used to check the currently opened website is phishing or legitimate hence preventing users from getting phished.
 ## Block Diagram
 <img src="https://github.com/user-attachments/assets/b00207cf-dd5d-47c1-a418-8e8d7745ca6b" width="850">
 
