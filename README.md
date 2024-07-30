@@ -1,6 +1,8 @@
 ## Overview 
 Trust check is a chrome extension that can be used to check the currently opened website is phishing or legitimate hence preventing users from getting phished
-## Setup 
+## Block Diagram
+![image](https://github.com/user-attachments/assets/b00207cf-dd5d-47c1-a418-8e8d7745ca6b)
+
 ### Dependencies 
 - `git clone git@github.com:patelharsh21/Trust-Check.git`
 - `conda create --name trust_check python`
