@@ -13,10 +13,11 @@ Trust check is a chrome extension that can be used to check the currently opened
 - Enable "Developer mode".
 - Click "Load unpacked" and select the chrome_extension directory.
 
-## Screenshots
-![image](https://github.com/user-attachments/assets/01baaf44-d3a5-4442-9922-ad62c7db6f61)
-![image](https://github.com/user-attachments/assets/c4994632-2faa-4d3d-acb6-64e48953c746)
-![image](https://github.com/user-attachments/assets/ca5aa18e-f0b2-4c8d-8d3b-7f335c6119b3)
+### Screenshot
+<img src="https://github.com/user-attachments/assets/01baaf44-d3a5-4442-9922-ad62c7db6f61" width="400">
+<img src="https://github.com/user-attachments/assets/c4994632-2faa-4d3d-acb6-64e48953c746" width="400">
+<img src="https://github.com/user-attachments/assets/ca5aa18e-f0b2-4c8d-8d3b-7f335c6119b3" width="400">
+
 
 
 
